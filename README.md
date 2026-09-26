@@ -47,6 +47,8 @@ The game supports standard PC gaming controls as well as directional arrow keys:
 | **Move Down** | `S` | ⬇️ Down Arrow |
 | **Move Left** | `A` | ⬅️ Left Arrow |
 | **Move Right** | `D` | ➡️ Right Arrow |
+| **Attack** | `C` | — |
+| **Inventory** | `Esc` / `Escape` | — |
 
 ---
 

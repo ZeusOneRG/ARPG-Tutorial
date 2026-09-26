@@ -10,11 +10,11 @@ The goal of this project is to provide a clean, solid foundation for understandi
 
 Here is a preview of the project in action:
 
-![Gameplay & Movement](path_to_your_image1.png)
+![Gameplay & Items](Screenshot_1.png)
 *Figure 1: Character movement and environmental exploration.*
 
-![Combat & Healt Bar](path_to_your_image2.png)
-*Figure 2: Enemy health bars*
+![Combat & Healt Bar](Screenshot_2.png)
+*Figure 2: Enemies and health bars*
 
 ---
 

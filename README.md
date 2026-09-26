@@ -6,6 +6,13 @@ The goal of this project is to provide a clean, solid foundation for understandi
 
 ---
 
+## 🛠️ Technical Requirements
+
+*   **Engine Version:** Built and tested using **Godot 4.7.1**
+*   **Language:** GDScript
+
+---
+
 ## 📸 Screenshots
 
 Here is a preview of the project in action:
